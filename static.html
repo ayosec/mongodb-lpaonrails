@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>MongoDB</title>
+  </head>
+  <script type="text/javascript" src="../js/jquery-1.4.2.min.js"></script>
+  <style>
+    #slides > div {
+      display: inline-block;
+      border: 1px solid #777;
+      width: 160px;
+      height: 120px;
+      overflow: hidden;
+      font-size: 7pt;
+    }
+
+    #slides div.slide-item {
+      float: right;
+    }
+
+    #slides h1 {
+      font-size: 8pt;
+    }
+
+  </style>
+
+  <div id="slides"></div>
+  <script>
+    $("#slides").load("../slides");
+    setTimeout(function() {
+      $("img").each(function() {
+        this.width *= 0.3;
+        this.height *= 0.3;
+      });
+
+      $("div.slide").each(function(index) {
+        //this.insertBefore(document.createTextNode("#" + (index + 1)), this.firstChild);
+        $("<div>", {class: "slide-item"}).text("#" + (1 + index)).prependTo($(this));
+      });
+    }, 300);
+  </script>
+
+</html>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="400"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="partes-postgresql.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3798">
+      <stop
+         style="stop-color:#4cee3c;stop-opacity:1"
+         offset="0"
+         id="stop3800" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="1"
+         id="stop3802" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient3768"
+       x1="75.690117"
+       y1="-9.4156485"
+       x2="206.84776"
+       y2="199.94992"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="118.42349"
+     inkscape:cy="45.77916"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1320"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     units="px"
+     inkscape:snap-center="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-652.36207)">
+    <path
+       sodipodi:type="star"
+       style="fill:url(#linearGradient3768);fill-opacity:1;stroke:#000074;stroke-width:1.09387492999999991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3001"
+       sodipodi:sides="3"
+       sodipodi:cx="81.822357"
+       sodipodi:cy="120.19285"
+       sodipodi:r1="162.97067"
+       sodipodi:r2="81.485336"
+       sodipodi:arg1="0.56221297"
+       sodipodi:arg2="1.6094105"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 219.70818,207.06597 78.67665,201.61744 -62.354886,196.16892 12.879444,76.756289 88.113775,-42.65634 153.91098,82.204813 z"
+       transform="matrix(1.2440813,-0.04557264,0.04823854,1.1753269,96.695487,756.60019)"
+       inkscape:transform-center-x="16.423312"
+       inkscape:transform-center-y="-46.475025" />
+    <g
+       id="g3808"
+       transform="translate(55.784546,-103.67157)">
+      <rect
+         ry="3.8618333"
+         y="760.28558"
+         x="75.641792"
+         height="45.116802"
+         width="149.14732"
+         id="rect3806"
+         style="fill:#ececec;stroke:#000074;stroke-width:1.11629772;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <g
+         transform="matrix(1.4189963,0,0,1.4189963,-59.919122,-320.31737)"
+         id="g3024">
+        <text
+           xml:space="preserve"
+           style="font-size:35.30567932px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="96.185539"
+           y="790.6955"
+           id="text2985-3"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan2987-7"
+             x="96.185539"
+             y="790.6955">Motor</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:35.30567932px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="94.501938"
+           y="789.38995"
+           id="text2985"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan2987"
+             x="94.501938"
+             y="789.38995">Motor</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:45.67247391px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="7.6355228"
+       y="1039.5597"
+       id="text2989"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0040372,0.99597903)"><tspan
+         sodipodi:role="line"
+         id="tspan2991"
+         x="7.6355228"
+         y="1039.5597">SQL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:39.74885178px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="275.80414"
+       y="1024.7461"
+       id="text2993"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2995"
+         x="275.80414"
+         y="1024.7461">Datos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.40598297px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="295.98035"
+       y="1042.8778"
+       id="text2997"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2999"
+         x="295.98035"
+         y="1042.8778">tablas, ...</tspan></text>
+  </g>
+</svg>
